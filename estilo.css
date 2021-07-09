@@ -12,6 +12,10 @@ body {
 	color: white;
 }
 
+.luis {
+	font-weight: bold;
+}
+
 .si {
 	font-family: 'Raleway', sans-serif;
 }
@@ -69,88 +73,91 @@ html,body {
 .button1 {
 	margin-right: 30px;
 	margin-left: 30px;
-	background-color: #CA1111;
 }
 
 .button2 {
-	margin-left: 80px;
-	background-color: #CA1111;
+	margin-left: 40px;
 }
 
 .button3 {
-	margin-left: 140px;
-	background-color: #CA1111;
+	margin-left: 100px;
 }
 
 .button4 {
-	margin-left: 160px;
-	background-color: #CA1111;
+	margin-left: 120px;
 }
 
 .button5 {
-	margin-left: 100px;
-	background-color: #CA1111;
+	margin-left: 50px;
 }
 
 .button6 {
-	margin-left: 105px;
-	background-color: #CA1111;
+	margin-left: 90px;
 }
 
 .button7 {
-	margin-left: 160px;
-	background-color: #CA1111;
+	margin-left: 125px;
 }
 
 .button8 {
 	margin-left: 50px;
-	background-color: #CA1111;
 }
 
 .button9 {
-	margin-left: 110px;
-	background-color: #CA1111;
+	margin-left: 70px;
 }
 
 .button10 {
 	margin-left: 70px;
-	background-color: #CA1111;
 }
 
 .button11 {
-	margin-left: 160px;
-	background-color: #CA1111;
+	margin-left: 110px;
 }
 
 .button12 {
 	margin-left: 160px;
-	background-color: #CA1111;
 }
 
 .button13 {
-	margin-left: 90px;
-	background-color: #CA1111;
+	margin-left: 60px;
 }
 
 .button14 {
-	margin-left: 100px;
-	background-color: #CA1111;
+	margin-left: 70px;
 }
 
 .button15 {
-	margin-left: 110px;
-	background-color: #CA1111;
+	margin-left: 90px;
+
 }
 
 .button16 {
 	margin-right: 30px;
 	margin-left: 45px;
-	background-color: #CA1111;
+}
+
+.button17 {
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.button18 {
+	margin-left: 60px;
 }
 
 button {
 	border-radius: 50%;
 	height: 40px;
+	border-radius: 2em;
+  	padding: .6em 1.5em;
+  	overflow: hidden;
+  	user-select: none;
+  	cursor: pointer;
+  	z-index: 1;
+  	box-shadow: 0 0 1em rgba(white, .2);
+  	margin-bottom: 15px;
+  	background-color: #F61919;
 }
 
 .container-fluid {
