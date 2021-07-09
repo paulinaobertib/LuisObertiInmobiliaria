@@ -6,11 +6,35 @@ body {
 	padding: 0px;
 	border: 0px;
 	background-color: #C41313;
-	font-family:'PT-Serif';
+	font-family:'Noto Sans', sans-serif;
 	text-align: center;
 	vertical-align: top;	
 	color: white;
 }
+
+.si {
+	font-family: 'Raleway', sans-serif;
+}
+
+.contactanos{
+	padding: 0px;
+	border: 0px;
+	background-color: #C41313;
+	font-family:'Noto Sans', sans-serif;
+	text-align: center;
+	vertical-align: top;	
+	color: white;
+}
+
+.contactos {
+	margin: 20px;
+}
+
+.contacto {
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
 
 html,body {
 	margin: 0;
@@ -63,7 +87,72 @@ html,body {
 	background-color: #CA1111;
 }
 
+.button5 {
+	margin-left: 100px;
+	background-color: #CA1111;
+}
+
+.button6 {
+	margin-left: 105px;
+	background-color: #CA1111;
+}
+
+.button7 {
+	margin-left: 160px;
+	background-color: #CA1111;
+}
+
+.button8 {
+	margin-left: 50px;
+	background-color: #CA1111;
+}
+
+.button9 {
+	margin-left: 110px;
+	background-color: #CA1111;
+}
+
+.button10 {
+	margin-left: 70px;
+	background-color: #CA1111;
+}
+
+.button11 {
+	margin-left: 160px;
+	background-color: #CA1111;
+}
+
+.button12 {
+	margin-left: 160px;
+	background-color: #CA1111;
+}
+
+.button13 {
+	margin-left: 90px;
+	background-color: #CA1111;
+}
+
+.button14 {
+	margin-left: 100px;
+	background-color: #CA1111;
+}
+
+.button15 {
+	margin-left: 110px;
+	background-color: #CA1111;
+}
+
+.button16 {
+	margin-right: 30px;
+	margin-left: 45px;
+	background-color: #CA1111;
+}
+
 button {
 	border-radius: 50%;
 	height: 40px;
+}
+
+.container-fluid {
+	margin: 6px;
 }
