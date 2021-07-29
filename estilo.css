@@ -37,6 +37,7 @@ body {
 .contacto {
 	margin-left: 60px;
 	margin-right: 60px;
+	margin-bottom: 15px;
 }
 
 
@@ -163,3 +164,12 @@ button {
 .container-fluid {
 	margin: 6px;
 }
+
+.titulo {
+	margin: 3px;
+	font-family:'Noto Sans', sans-serif;
+	text-align: center;
+	vertical-align: top;	
+	color: white;
+}
+
